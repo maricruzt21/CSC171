@@ -1,6 +1,5 @@
 /*
-	 * Name: Maricruz Tolosa Amaya  ID: 29988518
-	 * Lab: TR 11:05 - 12:20
+	 * Name: Maricruz
 	 * Project 04
 	 * I did not collaborate with anyone on this assignment 
 	 */
