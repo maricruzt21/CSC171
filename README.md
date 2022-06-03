@@ -6,6 +6,6 @@ Project 1: Catapult Game (User enters angle and speed for launching the catapult
 
 Project 2: Card Game
 
-Project 3: Fireworks animation 
+Project 3: Fireworks animation (not found)
 
 Project 4: Animated Catapult Game
