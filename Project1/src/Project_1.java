@@ -1,9 +1,7 @@
 
-/* Name: Maricruz Tolosa Amaya
- * Net ID: mtolosaa
+/* Name: Maricruz 
  * ID#: 29988518
  * Project #1
- * Lab: MW 2:00-3:15
  * 
  * I did not collaborate with anyone on this assignment
  */
